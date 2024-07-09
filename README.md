@@ -31,6 +31,8 @@ We have released a free version for this tool!
 
 The tool is written in Python and is <b> open-source! 
 
+<b> This tool enters your account through api hash/api id account and then reports using your account </b> 
+
 <b> Be a real reporter with this tool!</b> 
 
 
