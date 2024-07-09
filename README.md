@@ -29,6 +29,7 @@ We have released a free version for this tool!
 
 <b> Report To Admin Support 👆</b> 
 
+The tool is written in Python and is <b> open-source! 
 
 <b> Be a real reporter with this tool!</b> 
 
