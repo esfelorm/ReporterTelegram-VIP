@@ -13,5 +13,14 @@ We have released a free version for this tool!
 
 # Options: 
 
-<summary>Report Channel ✅</summary>
-<summary>Report Group ✅ </summary>
+- Report Channel ✅
+- Report Group ✅
+- Report Account ✅
+- Report Random (Account) ✅
+- Report Random (Channel) ✅
+- Reporter Multi (Account) ✅
+- Reporter Multi (Channel) ✅
+- Report To Admin support ✅
+- Report To Admin With Email
+
+------------------------
