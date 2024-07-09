@@ -27,4 +27,14 @@ We have released a free version for this tool!
 
 <img src="https://github.com/esfelorm/ReporterTelegram-VIP/assets/175118235/051baed3-ad8f-4f38-a2a0-65020568d858"> 
 
-<b> Report To Admin Support 👆
+<b> Report To Admin Support 👆</b> 
+
+
+<b> Be a real reporter with this tool!</b> 
+
+
+`To buy tools, send a message to the Telegram admin`
+
+```
+ID Admin Telegram: @Serverkill3r
+```
