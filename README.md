@@ -13,5 +13,5 @@ We have released a free version for this tool!
 
 # Options: 
 
-• Report Channel ✅
-• Report Group ✅
+<summary>Report Channel ✅</summary>
+<summary>Report Group ✅ </summary>
