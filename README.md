@@ -1,4 +1,4 @@
-## Reporter Telegram
+# Reporter Telegram
 
 <img src="https://github.com/esfelorm/ReporterTelegram-VIP/assets/175118235/9c0f8fa8-0171-4d45-8658-e378037aeebf"> 
 
@@ -40,4 +40,8 @@ The tool is written in Python and is <b> open-source!
 
 ```
 ID Admin Telegram: @Serverkill3r
+```
+
+```
+Channel: https://t.me/esfelorm
 ```
